@@ -44,7 +44,7 @@ N is an integer within the range [2..1,000];
 each element of array T is an integer within the range [0..N−1];
 there is exactly one (possibly indirect) connection between any two distinct villages.
 
-
+*/
 $T = [];
 $T[0] = 2;
 $T[1] = 0;
@@ -57,7 +57,7 @@ $T = [];
 $T[0] = 2;
 $T[1] = 2;
 $T[2] = 2;
-*/
+
 
 function solution($T)
 {
